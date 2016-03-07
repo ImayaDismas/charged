@@ -1,2 +1,2 @@
 # charged
-a repo on  that demonstates the activities and the layout design
+a repo on  that demonstates the activities and the layout design in android development
